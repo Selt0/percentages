@@ -1,0 +1,23 @@
+form {
+  max-width: 200px;
+}
+
+.container {
+  display: flex;
+  margin-top: 2em;
+}
+.graph {
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+  padding: 2em;
+}
+
+.percentage {
+  display: flex;
+  justify-content: space-around;
+}
+
+.red {
+  background-color: red;
+}
