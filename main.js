@@ -1,6 +1,7 @@
 const percentages = [
   -40,
   30,
+  40,
   50,
   75,
   100,
@@ -9,21 +10,6 @@ const percentages = [
   150,
   175,
   200,
-  215,
-  230,
-  250,
-  275,
-  300,
-  315,
-  330,
-  350,
-  375,
-  400,
-  415,
-  430,
-  450,
-  475,
-  500,
 ];
 const button = document.querySelector('button');
 const color = '#57ff57';
