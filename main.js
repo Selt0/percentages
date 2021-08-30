@@ -1,16 +1,17 @@
 const percentages = [
   -40,
+  20,
   30,
   40,
   50,
   75,
   100,
-  115,
-  130,
+  125,
   150,
   175,
   200,
 ];
+
 const button = document.querySelector('button');
 const color = '#57ff57';
 let price = 0;
